@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #ffffff;
+
+  /* Sierra Leone Flag Colors */
+  --sl-green: #1EB53A;
+  --sl-white: #FFFFFF;
+  --sl-blue: #0072C6;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Flag Gradient Text */
+.sl-gradient-text {
+  background: linear-gradient(to right, var(--sl-green), var(--sl-white), var(--sl-blue));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Utilities */
+.sl-border-green {
+  border-color: var(--sl-green);
+}
+
+.sl-border-blue {
+  border-color: var(--sl-blue);
+}
+
+.sl-text-green {
+  color: var(--sl-green);
+}
+
+.sl-text-blue {
+  color: var(--sl-blue);
+}
+
+.sl-button {
+  background: transparent;
+  border: 1px solid var(--sl-green);
+  color: var(--sl-green);
+  box-shadow: 0 0 10px rgba(30, 181, 58, 0.2);
+  transition: all 0.3s ease;
+}
+
+.sl-button:hover {
+  background: var(--sl-green);
+  color: #fff;
+  box-shadow: 0 0 20px rgba(30, 181, 58, 0.6);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--sl-green);
+}

@@ -1,0 +1,1692 @@
+[
+    {
+        "id": "1",
+        "topic": "Emergency Contacts",
+        "content": "Police: 112, Ambulance: 112, Fire Force: 112. National Emergency Response Centre: 117.",
+        "keywords": [
+            "emergency",
+            "police",
+            "ambulance",
+            "fire",
+            "help",
+            "contact",
+            "phone"
+        ]
+    },
+    {
+        "id": "2",
+        "topic": "Passport Application",
+        "content": "To apply for a Sierra Leonean passport, visit the Immigration Department in Freetown or regional offices. Requirements: Birth certificate, National ID, and payment of the prescribed fee. Online application is available at the official immigration portal.",
+        "keywords": [
+            "passport",
+            "immigration",
+            "travel",
+            "document",
+            "apply",
+            "application"
+        ]
+    },
+    {
+        "id": "3",
+        "topic": "National ID",
+        "content": "The National Civil Registration Authority (NCRA) is responsible for issuing National ID cards. Registration is mandatory for all citizens and residents.",
+        "keywords": [
+            "id",
+            "national id",
+            "ncra",
+            "identity",
+            "card",
+            "registration"
+        ]
+    },
+    {
+        "id": "4",
+        "topic": "Feed Salone",
+        "content": "Feed Salone is the government's flagship agricultural initiative aimed at boosting food production, reducing imports, and ensuring food security for all Sierra Leoneans.",
+        "keywords": [
+            "feed salone",
+            "agriculture",
+            "food",
+            "farming",
+            "initiative"
+        ]
+    },
+    {
+        "id": "5",
+        "topic": "Free Quality Education",
+        "content": "The Free Quality Education (FQE) program provides tuition-free schooling for government-assisted schools from pre-primary to senior secondary levels. It includes provision of core textbooks and school feeding in some areas.",
+        "keywords": [
+            "education",
+            "school",
+            "free",
+            "tuition",
+            "fqe",
+            "learning"
+        ]
+    },
+    {
+        "id": "6",
+        "topic": "Business Registration",
+        "content": "Business registration is handled by the Corporate Affairs Commission (CAC) and the Office of the Administrator and Registrar General (OARG). You can register a business online or at their offices.",
+        "keywords": [
+            "business",
+            "register",
+            "company",
+            "cac",
+            "oarg",
+            "trade"
+        ]
+    },
+    {
+        "id": "7",
+        "topic": "Tourism",
+        "content": "Top tourist attractions include Tacugama Chimpanzee Sanctuary, River No. 2 Beach, Bunce Island, and Tiwai Island. The Ministry of Tourism promotes 'Tourism for Development'.",
+        "keywords": [
+            "tourism",
+            "travel",
+            "visit",
+            "beach",
+            "chimpanzee",
+            "island",
+            "attraction"
+        ]
+    },
+    {
+        "id": "8",
+        "topic": "What is the National Cybersecurity Policy of Sierra Leone?",
+        "content": "What is the National Cybersecurity Policy of Sierra Leone?\nThe National Cybersecurity Policy 2021 is the Government of Sierra Leone’s official framework for addressing cyber threats and securing national digital infrastructure. It guides legal, technical, organisational, capacity-building, and cooperation measures needed to protect citizens, institutions, and the digital economy.",
+        "keywords": [
+            "national",
+            "cybersecurity",
+            "policy",
+            "sierra",
+            "leone",
+            "2021",
+            "government",
+            "leones",
+            "official",
+            "framework"
+        ]
+    },
+    {
+        "id": "9",
+        "topic": "Why is cybersecurity important for Sierra Leone?",
+        "content": "Why is cybersecurity important for Sierra Leone?\nCybersecurity is essential to protect citizens, institutions, and national digital infrastructure from cyberattacks that may disrupt the digital transformation agenda. Without strong cybersecurity, digital services, economic growth, and citizen safety would be at risk.",
+        "keywords": [
+            "cybersecurity",
+            "important",
+            "sierra",
+            "leone",
+            "essential",
+            "protect",
+            "citizens",
+            "institutions",
+            "national",
+            "digital"
+        ]
+    },
+    {
+        "id": "10",
+        "topic": "What is the vision of Sierra Leone’s Cybersecurity Policy?",
+        "content": "What is the vision of Sierra Leone’s Cybersecurity Policy?\nSierra Leone’s vision is to create a credible and secure cyberspace that protects national interests while giving citizens the freedom to safely use the Internet for socio-economic development.",
+        "keywords": [
+            "vision",
+            "sierra",
+            "leones",
+            "cybersecurity",
+            "policy",
+            "create",
+            "credible",
+            "secure",
+            "cyberspace",
+            "protects"
+        ]
+    },
+    {
+        "id": "11",
+        "topic": "What is the mission of the National Cybersecurity Policy?",
+        "content": "What is the mission of the National Cybersecurity Policy?\nThe mission is to deter cybercrimes, protect critical digital infrastructure, develop national cyber capability, empower citizens for safe digital living, and enhance national and international cyber cooperation.\n\nSECTION 2 — POLICY STRUCTURE & PILLARS",
+        "keywords": [
+            "mission",
+            "national",
+            "cybersecurity",
+            "policy",
+            "deter",
+            "cybercrimes",
+            "protect",
+            "critical",
+            "digital",
+            "infrastructure"
+        ]
+    },
+    {
+        "id": "12",
+        "topic": "What are the five pillars of the National Cybersecurity Policy?",
+        "content": "What are the five pillars of the National Cybersecurity Policy?\nThe Policy is built around five pillars aligned with the ITU Global Cybersecurity Agenda:\nLegal Measures\nTechnical Measures\nOrganisational Measures\nCapacity-Building Measures\nCooperation Measures",
+        "keywords": [
+            "five",
+            "pillars",
+            "national",
+            "cybersecurity",
+            "policy",
+            "built",
+            "around",
+            "aligned",
+            "global",
+            "agenda"
+        ]
+    },
+    {
+        "id": "13",
+        "topic": "What do the Legal Measures include?",
+        "content": "What do the Legal Measures include?\nLegal measures include reviewing cybercrime legislation, ensuring laws align with regional/international standards, building justice sector capacity, and protecting citizens’ rights to safe and responsible Internet use.",
+        "keywords": [
+            "legal",
+            "measures",
+            "include",
+            "reviewing",
+            "cybercrime",
+            "legislation",
+            "ensuring",
+            "laws",
+            "align",
+            "regionalinternational"
+        ]
+    },
+    {
+        "id": "14",
+        "topic": "What are the Technical Measures?",
+        "content": "What are the Technical Measures?\nTechnical measures include establishing a national CERT ecosystem, creating a Cybersecurity Risk Management Framework, defining CNII standards, implementing accreditation mechanisms, and introducing Child Online Protection systems.\n\nSECTION 3 — NATIONAL INSTITUTIONS & STRUCTURES",
+        "keywords": [
+            "technical",
+            "measures",
+            "include",
+            "establishing",
+            "national",
+            "cert",
+            "ecosystem",
+            "creating",
+            "cybersecurity",
+            "risk"
+        ]
+    },
+    {
+        "id": "15",
+        "topic": "What is the National Cybersecurity Advisory Council (NCSC)?",
+        "content": "What is the National Cybersecurity Advisory Council (NCSC)?\nIt is the national advisory board that provides strategic leadership, oversight, and guidance on cybersecurity initiatives in Sierra Leone.",
+        "keywords": [
+            "national",
+            "cybersecurity",
+            "advisory",
+            "council",
+            "ncsc",
+            "board",
+            "provides",
+            "strategic",
+            "leadership",
+            "oversight"
+        ]
+    },
+    {
+        "id": "16",
+        "topic": "What is the National Cyber Security Technical Working Group (NCTWG)?",
+        "content": "What is the National Cyber Security Technical Working Group (NCTWG)?\nIt is a multi-institutional technical group responsible for operational decisions and implementation of cybersecurity interventions.",
+        "keywords": [
+            "national",
+            "cyber",
+            "security",
+            "technical",
+            "working",
+            "group",
+            "nctwg",
+            "multiinstitutional",
+            "responsible",
+            "operational"
+        ]
+    },
+    {
+        "id": "17",
+        "topic": "What is the National Cyber Security Centre?",
+        "content": "What is the National Cyber Security Centre?\nIt is the central authority responsible for coordinating cybersecurity activities, enforcing standards, protecting Critical National Information Infrastructure (CNII), and managing the national Computer Security Incident Response Team (CSIRT).\n\nSECTION 4 — DIGITAL TRANSFORMATION & CITIZEN SAFETY",
+        "keywords": [
+            "national",
+            "cyber",
+            "security",
+            "centre",
+            "central",
+            "authority",
+            "responsible",
+            "coordinating",
+            "cybersecurity",
+            "activities"
+        ]
+    },
+    {
+        "id": "18",
+        "topic": "Why is cyber awareness important for Sierra Leone?",
+        "content": "Why is cyber awareness important for Sierra Leone?\nCyber awareness enables citizens to understand online threats and reduces the number of successful cyberattacks. It strengthens national resilience and contributes to continuous operation of digital infrastructure.",
+        "keywords": [
+            "cyber",
+            "awareness",
+            "important",
+            "sierra",
+            "leone",
+            "enables",
+            "citizens",
+            "understand",
+            "online",
+            "threats"
+        ]
+    },
+    {
+        "id": "19",
+        "topic": "How does this policy protect citizens online?",
+        "content": "How does this policy protect citizens online?\nIt protects citizens by promoting cybersecurity education, building national cyber capabilities, guaranteeing safe Internet use, and implementing legal frameworks that safeguard personal data and online rights.",
+        "keywords": [
+            "policy",
+            "protect",
+            "citizens",
+            "online",
+            "protects",
+            "promoting",
+            "cybersecurity",
+            "education",
+            "building",
+            "national"
+        ]
+    },
+    {
+        "id": "20",
+        "topic": "What is Critical National Information Infrastructure (CNII)?",
+        "content": "What is Critical National Information Infrastructure (CNII)?\nCNII refers to key digital systems and networks essential to national security, public safety, and economic stability. The policy ensures CNII is protected from cyber threats and disruptions.\n\nSECTION 5 — COOPERATION & INTERNATIONAL SUPPORT",
+        "keywords": [
+            "critical",
+            "national",
+            "information",
+            "infrastructure",
+            "cnii",
+            "refers",
+            "digital",
+            "systems",
+            "networks",
+            "essential"
+        ]
+    },
+    {
+        "id": "21",
+        "topic": "How does Sierra Leone cooperate internationally on cybersecurity?",
+        "content": "How does Sierra Leone cooperate internationally on cybersecurity?\nSierra Leone collaborates with international partners such as ITU, AU, World Bank, and other global cybersecurity organizations. The policy promotes partnerships, information sharing, and alignment with global standards.",
+        "keywords": [
+            "sierra",
+            "leone",
+            "cooperate",
+            "internationally",
+            "cybersecurity",
+            "collaborates",
+            "international",
+            "partners",
+            "such",
+            "world"
+        ]
+    },
+    {
+        "id": "22",
+        "topic": "Why does Sierra Leone need regional cooperation on cybercrime?",
+        "content": "Why does Sierra Leone need regional cooperation on cybercrime?\nCybercrime is cross-border, requiring collaboration with regional bodies and neighbouring countries to ensure efficient detection, reporting, and response to cyber threats.\n\nSECTION 6 — IMPLEMENTATION & FUTURE PREPAREDNESS",
+        "keywords": [
+            "sierra",
+            "leone",
+            "need",
+            "regional",
+            "cooperation",
+            "cybercrime",
+            "crossborder",
+            "requiring",
+            "collaboration",
+            "bodies"
+        ]
+    },
+    {
+        "id": "23",
+        "topic": "How will the National Cybersecurity Policy be implemented?",
+        "content": "How will the National Cybersecurity Policy be implemented?\nImplementation will be led by the Ministry of Information and Communications through strategies, guidelines, and action plans built on multistakeholder cooperation between government, private sector, academia, and civil society.",
+        "keywords": [
+            "will",
+            "national",
+            "cybersecurity",
+            "policy",
+            "implemented",
+            "implementation",
+            "ministry",
+            "information",
+            "communications",
+            "through"
+        ]
+    },
+    {
+        "id": "24",
+        "topic": "How will cybersecurity activities be funded?",
+        "content": "How will cybersecurity activities be funded?\nFunding will come from government budget allocations, donor agency support, international partners, and potential cybersecurity-related revenues.",
+        "keywords": [
+            "will",
+            "cybersecurity",
+            "activities",
+            "funded",
+            "funding",
+            "come",
+            "from",
+            "government",
+            "budget",
+            "allocations"
+        ]
+    },
+    {
+        "id": "25",
+        "topic": "What is the role of the National Cybersecurity Strategy?",
+        "content": "What is the role of the National Cybersecurity Strategy?\nThe strategy operationalizes the policy through legal frameworks, public awareness initiatives, capability development, infrastructure protection, and strengthened cooperation.",
+        "keywords": [
+            "role",
+            "national",
+            "cybersecurity",
+            "strategy",
+            "operationalizes",
+            "policy",
+            "through",
+            "legal",
+            "frameworks",
+            "public"
+        ]
+    },
+    {
+        "id": "26",
+        "topic": "What is a scam in the digital space?",
+        "content": "What is a scam in the digital space?\nA scam is any deceptive attempt to trick people into giving away money, personal information, mobile money codes, passwords, or sensitive data. Scammers use SMS, WhatsApp, Facebook, calls, and fake websites to mislead victims for financial gain.",
+        "keywords": [
+            "scam",
+            "digital",
+            "space",
+            "deceptive",
+            "attempt",
+            "trick",
+            "people",
+            "into",
+            "giving",
+            "away"
+        ]
+    },
+    {
+        "id": "27",
+        "topic": "Why are scams increasing in Sierra Leone?",
+        "content": "Why are scams increasing in Sierra Leone?\nScams are rising because more people now use smartphones, mobile money, and social media. Many citizens are still learning digital safety, making them more vulnerable to impersonation attacks, fake promotions, and fraudulent messages.",
+        "keywords": [
+            "scams",
+            "increasing",
+            "sierra",
+            "leone",
+            "rising",
+            "because",
+            "more",
+            "people",
+            "smartphones",
+            "mobile"
+        ]
+    },
+    {
+        "id": "28",
+        "topic": "What signs show that a message or call is a scam?",
+        "content": "What signs show that a message or call is a scam?\nCommon signs include:\nPromises of free money, prizes, scholarships, or jobs\nRequests for PINs, OTP codes, or mobile money transfers\nThreats and pressure to respond quickly\nMessages from unofficial numbers claiming to be government or company staff\nBad spelling, unknown links, or suspicious tone\n🛡️ SECTION B — MISINFORMATION ABOUT THE SIERRA LEONE GOVERNMENT",
+        "keywords": [
+            "signs",
+            "show",
+            "message",
+            "call",
+            "scam",
+            "common",
+            "include",
+            "promises",
+            "free",
+            "money"
+        ]
+    },
+    {
+        "id": "29",
+        "topic": "What is misinformation?",
+        "content": "What is misinformation?\nMisinformation is false or misleading information shared without verifying accuracy. It spreads quickly online and can influence public opinion, cause fear, or misrepresent government programs.",
+        "keywords": [
+            "misinformation",
+            "false",
+            "misleading",
+            "information",
+            "shared",
+            "without",
+            "verifying",
+            "accuracy",
+            "spreads",
+            "quickly"
+        ]
+    },
+    {
+        "id": "30",
+        "topic": "Why is misinformation dangerous for national stability?",
+        "content": "Why is misinformation dangerous for national stability?\nIt can create unnecessary panic, damage trust in public institutions, disrupt national programs, and promote harmful rumors that negatively affect public safety and unity.",
+        "keywords": [
+            "misinformation",
+            "dangerous",
+            "national",
+            "stability",
+            "create",
+            "unnecessary",
+            "panic",
+            "damage",
+            "trust",
+            "public"
+        ]
+    },
+    {
+        "id": "31",
+        "topic": "How can citizens identify government misinformation?",
+        "content": "How can citizens identify government misinformation?\nCitizens should check:\nOfficial government social media pages\nVerified ministry websites\nNATCOM, MIC, or government press releases\nReputable news outlets\nIf a claim is not from an official source, it may be false.",
+        "keywords": [
+            "citizens",
+            "identify",
+            "government",
+            "misinformation",
+            "should",
+            "check",
+            "official",
+            "social",
+            "media",
+            "pages"
+        ]
+    },
+    {
+        "id": "32",
+        "topic": "What should citizens do when they receive suspicious information about the government?",
+        "content": "What should citizens do when they receive suspicious information about the government?\nThey should:\nAvoid forwarding or reposting it\nVerify through official government channels\nReport it to the GOVCHATBOT for verification\nEncourage others not to spread unconfirmed claims\n🛡️ SECTION C — CYBERBULLYING",
+        "keywords": [
+            "should",
+            "citizens",
+            "when",
+            "they",
+            "receive",
+            "suspicious",
+            "information",
+            "about",
+            "government",
+            "avoid"
+        ]
+    },
+    {
+        "id": "33",
+        "topic": "What is cyberbullying?",
+        "content": "What is cyberbullying?\nCyberbullying refers to harassment, threats, insults, or humiliation carried out through phones, social media, messaging apps, or online platforms.",
+        "keywords": [
+            "cyberbullying",
+            "refers",
+            "harassment",
+            "threats",
+            "insults",
+            "humiliation",
+            "carried",
+            "through",
+            "phones",
+            "social"
+        ]
+    },
+    {
+        "id": "34",
+        "topic": "Why is cyberbullying a national concern?",
+        "content": "Why is cyberbullying a national concern?\nIt affects mental health, creates emotional distress, and can escalate into social conflict, especially among youth. The national cybersecurity policy promotes a safer online environment for all citizens.",
+        "keywords": [
+            "cyberbullying",
+            "national",
+            "concern",
+            "affects",
+            "mental",
+            "health",
+            "creates",
+            "emotional",
+            "distress",
+            "escalate"
+        ]
+    },
+    {
+        "id": "35",
+        "topic": "How can someone protect themselves from cyberbullying?",
+        "content": "How can someone protect themselves from cyberbullying?\nBlock the bully\nDo not respond\nScreenshot evidence\nReport the account to the platform\nInform trusted adults or authorities\nUse privacy settings to limit exposure",
+        "keywords": [
+            "someone",
+            "protect",
+            "themselves",
+            "from",
+            "cyberbullying",
+            "block",
+            "bully",
+            "respond",
+            "screenshot",
+            "evidence"
+        ]
+    },
+    {
+        "id": "36",
+        "topic": "What should a victim of cyberbullying do?",
+        "content": "What should a victim of cyberbullying do?\nThey should save evidence, report the behavior to the platform, inform school authorities if a minor is involved, and contact law enforcement if threats or harassment persist.\n🛡️ SECTION D — SOCIAL MEDIA SCAMS IN SIERRA LEONE",
+        "keywords": [
+            "should",
+            "victim",
+            "cyberbullying",
+            "they",
+            "save",
+            "evidence",
+            "report",
+            "behavior",
+            "platform",
+            "inform"
+        ]
+    },
+    {
+        "id": "37",
+        "topic": "What is a social media scam?",
+        "content": "What is a social media scam?\nSocial media scams involve attackers creating fake accounts, pages, promotions, or job offers to trick users into sending money or personal information.",
+        "keywords": [
+            "social",
+            "media",
+            "scam",
+            "scams",
+            "involve",
+            "attackers",
+            "creating",
+            "fake",
+            "accounts",
+            "pages"
+        ]
+    },
+    {
+        "id": "38",
+        "topic": "What are the most common social media scams seen in Sierra Leone?",
+        "content": "What are the most common social media scams seen in Sierra Leone?\nCommon scams include:\nFake NGO job offers\nFake government recruitment forms\nFake scholarship opportunities\nImpersonation of officials\nInvestment scams promising high returns\nFake charity donation drives\n“Send your mobile money for doubling” scams",
+        "keywords": [
+            "most",
+            "common",
+            "social",
+            "media",
+            "scams",
+            "seen",
+            "sierra",
+            "leone",
+            "include",
+            "fake"
+        ]
+    },
+    {
+        "id": "39",
+        "topic": "How can citizens verify if a social media account is real?",
+        "content": "How can citizens verify if a social media account is real?\nLook for a verified badge (if available)\nCheck previous posts and activity\nVerify phone numbers or emails shared\nCompare the page name with official ministry or institution channels",
+        "keywords": [
+            "citizens",
+            "verify",
+            "social",
+            "media",
+            "account",
+            "real",
+            "look",
+            "verified",
+            "badge",
+            "available"
+        ]
+    },
+    {
+        "id": "40",
+        "topic": "What should someone do if they suspect a social media account is impersonating a public figure?",
+        "content": "What should someone do if they suspect a social media account is impersonating a public figure?\nThey should report the account to the platform, avoid engaging with it, and confirm through official government channels whether the person actually operates that account.\n🛡️ SECTION E — MOBILE MONEY FRAUD (ORANGE MONEY & AFRICELL MONEY)\n(Note: The following information explains general fraud patterns, not accusations against any specific company.)",
+        "keywords": [
+            "should",
+            "someone",
+            "they",
+            "suspect",
+            "social",
+            "media",
+            "account",
+            "impersonating",
+            "public",
+            "figure"
+        ]
+    },
+    {
+        "id": "41",
+        "topic": "What is mobile money fraud?",
+        "content": "What is mobile money fraud?\nMobile money fraud occurs when criminals trick users into sending money, sharing PINs, revealing OTP codes, or approving transactions they did not authorize.",
+        "keywords": [
+            "mobile",
+            "money",
+            "fraud",
+            "occurs",
+            "when",
+            "criminals",
+            "trick",
+            "users",
+            "into",
+            "sending"
+        ]
+    },
+    {
+        "id": "42",
+        "topic": "What are common mobile money scams in Sierra Leone?",
+        "content": "What are common mobile money scams in Sierra Leone?\nCommon scams include:\nFraudsters calling and pretending to be “customer care”\nMessages claiming “your account has a problem”\nFake prize-winning SMS asking for fees\nAttempts to steal PINs and OTP codes\nFake reversal requests asking users to return money they never received\nSIM swap fraud",
+        "keywords": [
+            "common",
+            "mobile",
+            "money",
+            "scams",
+            "sierra",
+            "leone",
+            "include",
+            "fraudsters",
+            "calling",
+            "pretending"
+        ]
+    },
+    {
+        "id": "43",
+        "topic": "Do Orange and Africell agents ever ask for your PIN?",
+        "content": "Do Orange and Africell agents ever ask for your PIN?\nNo.\nNo mobile money agent or company representative will ever ask for your PIN, OTP, or private code.\nAnyone requesting such information is attempting fraud.",
+        "keywords": [
+            "orange",
+            "africell",
+            "agents",
+            "ever",
+            "your",
+            "mobile",
+            "money",
+            "agent",
+            "company",
+            "representative"
+        ]
+    },
+    {
+        "id": "44",
+        "topic": "What should you do if you receive a suspicious mobile money message?",
+        "content": "What should you do if you receive a suspicious mobile money message?\nDo NOT respond\nDo NOT click any links\nDo NOT share your PIN or code\nCall the official customer care number listed on the company website or SIM toolkit\nReport it to GOVCHATBOT or to the police",
+        "keywords": [
+            "should",
+            "receive",
+            "suspicious",
+            "mobile",
+            "money",
+            "message",
+            "respond",
+            "click",
+            "links",
+            "share"
+        ]
+    },
+    {
+        "id": "45",
+        "topic": "What is SIM swap fraud?",
+        "content": "What is SIM swap fraud?\nSIM swap fraud happens when someone tricks or bribes an agent to issue a duplicate SIM card of your number. Once they gain control of your SIM, they can access your mobile money, calls, SMS, and accounts linked to your phone number.",
+        "keywords": [
+            "swap",
+            "fraud",
+            "happens",
+            "when",
+            "someone",
+            "tricks",
+            "bribes",
+            "agent",
+            "issue",
+            "duplicate"
+        ]
+    },
+    {
+        "id": "46",
+        "topic": "How can you prevent SIM swap fraud?",
+        "content": "How can you prevent SIM swap fraud?\nUse strong PINs\nNever share personal details\nMonitor unusual phone behavior\nVisit only official service centers for SIM issues\nRegister your SIM with accurate personal information",
+        "keywords": [
+            "prevent",
+            "swap",
+            "fraud",
+            "strong",
+            "pins",
+            "never",
+            "share",
+            "personal",
+            "details",
+            "monitor"
+        ]
+    },
+    {
+        "id": "47",
+        "topic": "What should I do if money is withdrawn from my account without approval?",
+        "content": "What should I do if money is withdrawn from my account without approval?\nYou should immediately:\nCall the official mobile money helpline\nFreeze or lock your account (if supported)\nReport the incident to the police\nDocument all transactions for investigation\nAlso report through GOVCHATBOT for guidance.\n🛡️ SECTION F — PROTECTING YOURSELF FROM DIGITAL FRAUD",
+        "keywords": [
+            "should",
+            "money",
+            "withdrawn",
+            "from",
+            "account",
+            "without",
+            "approval",
+            "immediately",
+            "call",
+            "official"
+        ]
+    },
+    {
+        "id": "48",
+        "topic": "What is the best way to stay safe from digital scams?",
+        "content": "What is the best way to stay safe from digital scams?\nVerify all information\nKeep your PIN and OTP private\nAvoid untrusted links\nUse official channels for payments\nBeware of offers that sound “too good to be true”\nConfirm any financial request through a phone call or physical visit\nEnable two-factor authentication where possible",
+        "keywords": [
+            "best",
+            "stay",
+            "safe",
+            "from",
+            "digital",
+            "scams",
+            "verify",
+            "information",
+            "keep",
+            "your"
+        ]
+    },
+    {
+        "id": "49",
+        "topic": "What should citizens do if they fall victim to a scam?",
+        "content": "What should citizens do if they fall victim to a scam?\nThey should gather evidence (screenshots, numbers, messages), report immediately to the police, contact their mobile money provider, and submit the incident to GOVCHATBOT for further guidance.",
+        "keywords": [
+            "should",
+            "citizens",
+            "they",
+            "fall",
+            "victim",
+            "scam",
+            "gather",
+            "evidence",
+            "screenshots",
+            "numbers"
+        ]
+    },
+    {
+        "id": "50",
+        "topic": "What role does the government play in fighting scams and misinformation?",
+        "content": "What role does the government play in fighting scams and misinformation?\nThe government provides legal frameworks, public awareness campaigns, cybersecurity institutions, and cooperation with telecoms, financial institutions, and international partners to protect citizens and strengthen digital security.\n🛡️ SECTION G — GOVERNMENT VERIFICATION BOT FEATURES (Optional Q&A)",
+        "keywords": [
+            "role",
+            "government",
+            "play",
+            "fighting",
+            "scams",
+            "misinformation",
+            "provides",
+            "legal",
+            "frameworks",
+            "public"
+        ]
+    },
+    {
+        "id": "51",
+        "topic": "How can GOVCHATBOT help citizens avoid scams?",
+        "content": "How can GOVCHATBOT help citizens avoid scams?\nGOVCHATBOT can verify suspicious messages, identify scam patterns, explain government programs accurately, detect misinformation, and guide citizens on where to report cyber incidents.",
+        "keywords": [
+            "govchatbot",
+            "help",
+            "citizens",
+            "avoid",
+            "scams",
+            "verify",
+            "suspicious",
+            "messages",
+            "identify",
+            "scam"
+        ]
+    },
+    {
+        "id": "52",
+        "topic": "Why should citizens verify claims through GOVCHATBOT?",
+        "content": "Why should citizens verify claims through GOVCHATBOT?\nBecause scammers often impersonate government agencies or programs. GOVCHATBOT gives citizens access to trusted, official, and up-to-date information from verified government sources.\n✅ If you want, I can now:\n1️⃣ Expand this to 100+ scam & cybersecurity Q&As\n2️⃣ Add Mobile Money Fraud Scenarios + Bot Responses\n3️⃣ Build a “Scam Detection Flow” for your chatbot\n4️⃣ Create a Master Knowledge Base combining ALL topics\n5️⃣ Produce a JSON or CSV version for database storage\nResponse 2\nAbsolutely — I’ve got you, my friend. Here is a powerful, expanded, government-grade Q&A bank focused on:\n✔ Scam Awareness in Sierra Leone\n✔ Misinformation about Government\n✔ Cyberbullying\n✔ Social Media Scams\n✔ Mobile Money Fraud (Orange Money & Afrimoney)\n✔ How citizens should report these incidents\nThese Q&As are designed so your GOVCHATBOT can educate, guide, and protect users in Sierra Leone.\n🔥 SCAM, MISINFORMATION & DIGITAL SAFETY Q&A BANK FOR GOVCHATBOT\nSECTION 1 — SCAMS IN SIERRA LEONE",
+        "keywords": [
+            "should",
+            "citizens",
+            "verify",
+            "claims",
+            "through",
+            "govchatbot",
+            "because",
+            "scammers",
+            "often",
+            "impersonate"
+        ]
+    },
+    {
+        "id": "53",
+        "topic": "What is an online scam?",
+        "content": "What is an online scam?\nAn online scam is a deceptive act where criminals use the Internet, phone calls, SMS, or social media to trick people into giving money, personal information, or mobile money PIN codes. Scammers pretend to be trusted institutions such as banks, mobile companies, government agencies, friends, or NGOs.",
+        "keywords": [
+            "online",
+            "scam",
+            "deceptive",
+            "where",
+            "criminals",
+            "internet",
+            "phone",
+            "calls",
+            "social",
+            "media"
+        ]
+    },
+    {
+        "id": "54",
+        "topic": "What are the most common scams in Sierra Leone?",
+        "content": "What are the most common scams in Sierra Leone?\nThe most common scams include:\nMobile Money PIN theft\n“You have won a prize” calls and SMS\nFake NGO or scholarship grants\nFake government job offers\nFake foreign travel or visa processing\nImpersonation of government officials\nFake WhatsApp profiles asking for money\nFacebook and TikTok romance scams\nAdvance-fee (“419”) fraud\nFake investment or Bitcoin trading scams",
+        "keywords": [
+            "most",
+            "common",
+            "scams",
+            "sierra",
+            "leone",
+            "include",
+            "mobile",
+            "money",
+            "theft",
+            "have"
+        ]
+    },
+    {
+        "id": "55",
+        "topic": "Why are scams increasing in Sierra Leone?",
+        "content": "Why are scams increasing in Sierra Leone?\nScams are increasing due to expanded mobile money adoption, high smartphone use, limited digital literacy, social media growth, and the ability of scammers to hide their identity using online tools.\nSECTION 2 — MISINFORMATION ABOUT GOVERNMENT",
+        "keywords": [
+            "scams",
+            "increasing",
+            "sierra",
+            "leone",
+            "expanded",
+            "mobile",
+            "money",
+            "adoption",
+            "high",
+            "smartphone"
+        ]
+    },
+    {
+        "id": "56",
+        "topic": "What is misinformation?",
+        "content": "What is misinformation?\nMisinformation is false or misleading information spread unintentionally. It can easily spread on WhatsApp, Facebook, and TikTok, especially during national events, political discussions, emergencies, or government announcements.",
+        "keywords": [
+            "misinformation",
+            "false",
+            "misleading",
+            "information",
+            "spread",
+            "unintentionally",
+            "easily",
+            "whatsapp",
+            "facebook",
+            "tiktok"
+        ]
+    },
+    {
+        "id": "57",
+        "topic": "How does misinformation affect Sierra Leone?",
+        "content": "How does misinformation affect Sierra Leone?\nMisinformation can:\nCreate panic among citizens\nDamage trust in government institutions\nMislead people during elections\nSpread false rumors about ministers and agencies\nEncourage violence or public disorder\nHarm national development agendas",
+        "keywords": [
+            "misinformation",
+            "affect",
+            "sierra",
+            "leone",
+            "create",
+            "panic",
+            "among",
+            "citizens",
+            "damage",
+            "trust"
+        ]
+    },
+    {
+        "id": "58",
+        "topic": "How can citizens verify if government information is real?",
+        "content": "How can citizens verify if government information is real?\nCitizens should always check:\nOfficial Government of Sierra Leone websites\nMinistry of Information and Communications verified pages\nNATCOM, Police Cyber Unit, and institutional press releases\nOfficial WhatsApp and Facebook accounts with verification badges\nLocal news outlets with track record of credibility\nYour GOVCHATBOT should advise users to never trust forwarded messages without verification.",
+        "keywords": [
+            "citizens",
+            "verify",
+            "government",
+            "information",
+            "real",
+            "should",
+            "always",
+            "check",
+            "official",
+            "sierra"
+        ]
+    },
+    {
+        "id": "59",
+        "topic": "What does the government do to combat misinformation?",
+        "content": "What does the government do to combat misinformation?\nGovernment agencies work together to:\nMonitor harmful false information\nIssue official corrections\nWork with telecoms and social media platforms\nEducate the public on digital literacy\nPromote safe online information consumption\nSECTION 3 — CYBERBULLYING & ONLINE HARASSMENT",
+        "keywords": [
+            "government",
+            "combat",
+            "misinformation",
+            "agencies",
+            "work",
+            "together",
+            "monitor",
+            "harmful",
+            "false",
+            "information"
+        ]
+    },
+    {
+        "id": "60",
+        "topic": "What is cyberbullying?",
+        "content": "What is cyberbullying?\nCyberbullying is when someone uses social media, messaging apps, or online platforms to intimidate, shame, insult, threaten, or spread harmful content about another person.",
+        "keywords": [
+            "cyberbullying",
+            "when",
+            "someone",
+            "uses",
+            "social",
+            "media",
+            "messaging",
+            "apps",
+            "online",
+            "platforms"
+        ]
+    },
+    {
+        "id": "61",
+        "topic": "What are examples of cyberbullying in Sierra Leone?",
+        "content": "What are examples of cyberbullying in Sierra Leone?\nExamples include:\nPosting someone’s private photos online\nCreating fake accounts to insult people\nSpreading humiliation videos\nOnline threats\nSharing false rumours about a person’s character\nHarassment in WhatsApp groups\nPublic shaming on TikTok or Facebook Lives",
+        "keywords": [
+            "examples",
+            "cyberbullying",
+            "sierra",
+            "leone",
+            "include",
+            "posting",
+            "someones",
+            "private",
+            "photos",
+            "online"
+        ]
+    },
+    {
+        "id": "62",
+        "topic": "Who is most at risk of cyberbullying?",
+        "content": "Who is most at risk of cyberbullying?\nChildren, teenagers, women, public figures, and students are most vulnerable.\nPeople who have active social media presence or small online businesses are also common targets.",
+        "keywords": [
+            "most",
+            "risk",
+            "cyberbullying",
+            "children",
+            "teenagers",
+            "women",
+            "public",
+            "figures",
+            "students",
+            "vulnerable"
+        ]
+    },
+    {
+        "id": "63",
+        "topic": "What should someone do if they are being cyberbullied?",
+        "content": "What should someone do if they are being cyberbullied?\nThey should:\nKeep evidence (screenshots).\nBlock the bully.\nReport to the platform (Facebook/TikTok/WhatsApp).\nTell a trusted adult or authority.\nReport severe cases to the Cyber Crime Unit or Police.\nSECTION 4 — SOCIAL MEDIA SCAMS",
+        "keywords": [
+            "should",
+            "someone",
+            "they",
+            "being",
+            "cyberbullied",
+            "keep",
+            "evidence",
+            "screenshots",
+            "block",
+            "bully"
+        ]
+    },
+    {
+        "id": "64",
+        "topic": "What is a social media scam?",
+        "content": "What is a social media scam?\nThis is when scammers use platforms like Facebook, WhatsApp, Instagram, TikTok, or Messenger to deceive people into sending money or personal information.",
+        "keywords": [
+            "social",
+            "media",
+            "scam",
+            "when",
+            "scammers",
+            "platforms",
+            "like",
+            "facebook",
+            "whatsapp",
+            "instagram"
+        ]
+    },
+    {
+        "id": "65",
+        "topic": "What are common social media scams in Sierra Leone?",
+        "content": "What are common social media scams in Sierra Leone?\nFake pages offering government jobs\nFake NGOs claiming to give scholarships or donations\nRomance or relationship scams\nFake forex trading invitations\nImpersonation of celebrities or politicians\n“Double your money” investment scams\nHacked accounts messaging friends for cash",
+        "keywords": [
+            "common",
+            "social",
+            "media",
+            "scams",
+            "sierra",
+            "leone",
+            "fake",
+            "pages",
+            "offering",
+            "government"
+        ]
+    },
+    {
+        "id": "66",
+        "topic": "How do I identify a fake Facebook or WhatsApp account?",
+        "content": "How do I identify a fake Facebook or WhatsApp account?\nSigns include:\nNo verified badge for official pages\nLow followers on a “government” page\nAsking for money immediately\nPoor grammar or unfamiliar number\nNew account with few photos\nNo official logo or mismatched branding",
+        "keywords": [
+            "identify",
+            "fake",
+            "facebook",
+            "whatsapp",
+            "account",
+            "signs",
+            "include",
+            "verified",
+            "badge",
+            "official"
+        ]
+    },
+    {
+        "id": "67",
+        "topic": "What should I do if a friend’s account is hacked?",
+        "content": "What should I do if a friend’s account is hacked?\nDo not send money\nCall the friend directly to confirm\nWarn others in the friend list\nReport the account to Facebook or WhatsApp\nEncourage the owner to recover their account\nSECTION 5 — MOBILE MONEY FRAUD (ORANGE MONEY & AFRIMONEY)",
+        "keywords": [
+            "should",
+            "friends",
+            "account",
+            "hacked",
+            "send",
+            "money",
+            "call",
+            "friend",
+            "directly",
+            "confirm"
+        ]
+    },
+    {
+        "id": "68",
+        "topic": "What is mobile money fraud?",
+        "content": "What is mobile money fraud?\nMobile money fraud occurs when criminals trick Orange Money or Afrimoney users into sending money, giving out PINs, or transferring funds unknowingly.",
+        "keywords": [
+            "mobile",
+            "money",
+            "fraud",
+            "occurs",
+            "when",
+            "criminals",
+            "trick",
+            "orange",
+            "afrimoney",
+            "users"
+        ]
+    },
+    {
+        "id": "69",
+        "topic": "What are common Orange Money and Afrimoney scams in Sierra Leone?",
+        "content": "What are common Orange Money and Afrimoney scams in Sierra Leone?\nCommon fraud methods include:\n“Your SIM will be blocked” scam\n“You won a promotion prize” scam\nFake agent calls asking for PIN\nFake reversal requests\nFraudsters pretending to be customer service\nCallers saying they mistakenly sent you money\n“Dial this code for free bonus” scam",
+        "keywords": [
+            "common",
+            "orange",
+            "money",
+            "afrimoney",
+            "scams",
+            "sierra",
+            "leone",
+            "fraud",
+            "methods",
+            "include"
+        ]
+    },
+    {
+        "id": "70",
+        "topic": "Will Orange or Africell ever call to ask for my PIN?",
+        "content": "Will Orange or Africell ever call to ask for my PIN?\nNo. Never.\nNo legitimate mobile operator will ask you for your PIN, OTP code, or password.\nAny call requesting such information is a scam.",
+        "keywords": [
+            "will",
+            "orange",
+            "africell",
+            "ever",
+            "call",
+            "never",
+            "legitimate",
+            "mobile",
+            "operator",
+            "your"
+        ]
+    },
+    {
+        "id": "71",
+        "topic": "What should I do if I suspect a mobile money scam?",
+        "content": "What should I do if I suspect a mobile money scam?\nHang up immediately\nDo not share any code\nCall the official customer service lines:\nOrange: 111\nAfricell: 111\nVisit a physical mobile operator shop to confirm\nReport suspicious numbers to NATCOM",
+        "keywords": [
+            "should",
+            "suspect",
+            "mobile",
+            "money",
+            "scam",
+            "hang",
+            "immediately",
+            "share",
+            "code",
+            "call"
+        ]
+    },
+    {
+        "id": "72",
+        "topic": "What is the “Wrong Transfer Scam”?",
+        "content": "What is the “Wrong Transfer Scam”?\nThis happens when a scammer claims they mistakenly sent you money and asks you to “send it back.”\nIn reality, no money was sent to you — they want you to send your own money to them.",
+        "keywords": [
+            "wrong",
+            "transfer",
+            "scam",
+            "happens",
+            "when",
+            "scammer",
+            "claims",
+            "they",
+            "mistakenly",
+            "sent"
+        ]
+    },
+    {
+        "id": "73",
+        "topic": "How do I protect my Mobile Money account?",
+        "content": "How do I protect my Mobile Money account?\nUse a strong PIN\nChange your PIN regularly\nNever share codes with anyone\nDo not hand your phone to strangers\nOnly use registered agents\nEnable SMS notifications\nIgnore suspicious promos\nSECTION 6 — REPORTING PROCEDURES",
+        "keywords": [
+            "protect",
+            "mobile",
+            "money",
+            "account",
+            "strong",
+            "change",
+            "your",
+            "regularly",
+            "never",
+            "share"
+        ]
+    },
+    {
+        "id": "74",
+        "topic": "Where can citizens report online scams in Sierra Leone?",
+        "content": "Where can citizens report online scams in Sierra Leone?\nCitizens can report to:\nCyber Crime Unit, Sierra Leone Police\nMinistry of Information and Communications\nNATCOM\nMobile Operators (Orange, Africell)\nYour GOVCHATBOT reporting channel",
+        "keywords": [
+            "where",
+            "citizens",
+            "report",
+            "online",
+            "scams",
+            "sierra",
+            "leone",
+            "cyber",
+            "crime",
+            "unit"
+        ]
+    },
+    {
+        "id": "75",
+        "topic": "What information should I provide when reporting a scam?",
+        "content": "What information should I provide when reporting a scam?\nReport the following:\nPhone number of scammer\nScreenshots of messages or calls\nDate and time of incident\nAmount involved (if any loss occurred)\nThe platform used (WhatsApp, Facebook, etc.)",
+        "keywords": [
+            "information",
+            "should",
+            "provide",
+            "when",
+            "reporting",
+            "scam",
+            "report",
+            "following",
+            "phone",
+            "number"
+        ]
+    },
+    {
+        "id": "76",
+        "topic": "Why is reporting scams important?",
+        "content": "Why is reporting scams important?\nReporting helps:\nProtect other citizens\nShutdown scam numbers\nSupport police investigations\nPrevent national financial losses\nStrengthen cybersecurity in Sierra Leone\nSECTION 7 — SAFETY TIPS FOR CITIZENS",
+        "keywords": [
+            "reporting",
+            "scams",
+            "important",
+            "helps",
+            "protect",
+            "other",
+            "citizens",
+            "shutdown",
+            "scam",
+            "numbers"
+        ]
+    },
+    {
+        "id": "77",
+        "topic": "How can citizens stay safe online?",
+        "content": "How can citizens stay safe online?\nVerify information before sharing\nReport fake news\nUse strong passwords\nAvoid clicking suspicious links\nBe careful of strangers online\nConfirm official statements from trusted government sources\nUse two-factor authentication on social media\nEducate family members, especially children",
+        "keywords": [
+            "citizens",
+            "stay",
+            "safe",
+            "online",
+            "verify",
+            "information",
+            "before",
+            "sharing",
+            "report",
+            "fake"
+        ]
+    },
+    {
+        "id": "78",
+        "topic": "What is the main focus of the article?",
+        "content": "What is the main focus of the article?\nThe article examines the rise of cyber-bullying in Sierra Leone, its forms, effects, existing legal frameworks, gaps in enforcement, and recommendations needed to better address the issue.",
+        "keywords": [
+            "main",
+            "focus",
+            "article",
+            "examines",
+            "rise",
+            "cyberbullying",
+            "sierra",
+            "leone",
+            "forms",
+            "effects"
+        ]
+    },
+    {
+        "id": "79",
+        "topic": "When did cybercrime first begin, according to the article?",
+        "content": "When did cybercrime first begin, according to the article?\nThe first recorded cybercrime incident occurred in 1834 in France, when attackers accessed the French telegraph system to steal financial market information—long before the invention of the internet.",
+        "keywords": [
+            "when",
+            "cybercrime",
+            "first",
+            "begin",
+            "according",
+            "article",
+            "recorded",
+            "incident",
+            "occurred",
+            "1834"
+        ]
+    },
+    {
+        "id": "80",
+        "topic": "Who launched the first modern cyber-attack in history and where?",
+        "content": "Who launched the first modern cyber-attack in history and where?\nAllen Scherr, who hacked into MIT’s computer networks by stealing passwords using a punch card.",
+        "keywords": [
+            "launched",
+            "first",
+            "modern",
+            "cyberattack",
+            "history",
+            "where",
+            "allen",
+            "scherr",
+            "hacked",
+            "into"
+        ]
+    },
+    {
+        "id": "81",
+        "topic": "What is cyber-bullying?",
+        "content": "What is cyber-bullying?\nCyber-bullying is the use of electronic communication—such as phones, computers, and social media—to intimidate, harass, shame, or harm a person.",
+        "keywords": [
+            "cyberbullying",
+            "electronic",
+            "communicationsuch",
+            "phones",
+            "computers",
+            "social",
+            "mediato",
+            "intimidate",
+            "harass",
+            "shame"
+        ]
+    },
+    {
+        "id": "82",
+        "topic": "What platforms are commonly used for cyber-bullying?",
+        "content": "What platforms are commonly used for cyber-bullying?\nWhatsApp, Facebook, Instagram, emails, texting, and other digital platforms connected to the Internet.",
+        "keywords": [
+            "platforms",
+            "commonly",
+            "used",
+            "cyberbullying",
+            "whatsapp",
+            "facebook",
+            "instagram",
+            "emails",
+            "texting",
+            "other"
+        ]
+    },
+    {
+        "id": "83",
+        "topic": "Why is cyber-bullying increasing worldwide?",
+        "content": "Why is cyber-bullying increasing worldwide?\nBecause 95% of people use the internet daily, and digital devices are always connected, making it easy for bullies to reach victims anytime and anonymously.",
+        "keywords": [
+            "cyberbullying",
+            "increasing",
+            "worldwide",
+            "because",
+            "people",
+            "internet",
+            "daily",
+            "digital",
+            "devices",
+            "always"
+        ]
+    },
+    {
+        "id": "84",
+        "topic": "What are some common forms of cyber-bullying?",
+        "content": "What are some common forms of cyber-bullying?\nHarassment\nHoaxes\nSpreading threats\nGrooming\nReputation attacks\nPosting private or intimate images\nTrolling\nDefamation",
+        "keywords": [
+            "some",
+            "common",
+            "forms",
+            "cyberbullying",
+            "harassment",
+            "hoaxes",
+            "spreading",
+            "threats",
+            "grooming",
+            "reputation"
+        ]
+    },
+    {
+        "id": "85",
+        "topic": "What impacts does cyber-bullying have on victims?",
+        "content": "What impacts does cyber-bullying have on victims?\nDepression\nLow self-esteem\nShame\nAnxiety\nIsolation\nSuicide in severe cases\nLong-term emotional trauma",
+        "keywords": [
+            "impacts",
+            "cyberbullying",
+            "have",
+            "victims",
+            "depression",
+            "selfesteem",
+            "shame",
+            "anxiety",
+            "isolation",
+            "suicide"
+        ]
+    },
+    {
+        "id": "86",
+        "topic": "What statistics were presented from the United States about cyber-bullying?",
+        "content": "What statistics were presented from the United States about cyber-bullying?\n58% of kids aged 14–18 said someone has said harmful things to them online.\nOver 40% said it happened more than once.\nMany admitted to being both victims and perpetrators.",
+        "keywords": [
+            "statistics",
+            "were",
+            "presented",
+            "from",
+            "united",
+            "states",
+            "about",
+            "cyberbullying",
+            "kids",
+            "aged"
+        ]
+    },
+    {
+        "id": "87",
+        "topic": "What international conventions influence Sierra Leone’s cybercrime laws?",
+        "content": "What international conventions influence Sierra Leone’s cybercrime laws?\nBudapest Convention on Cybercrime (2001)\nUN Group of Governmental Experts (UNGGE) cybersecurity resolutions",
+        "keywords": [
+            "international",
+            "conventions",
+            "influence",
+            "sierra",
+            "leones",
+            "cybercrime",
+            "laws",
+            "budapest",
+            "convention",
+            "2001"
+        ]
+    },
+    {
+        "id": "88",
+        "topic": "What law in Sierra Leone specifically addresses cybercrime?",
+        "content": "What law in Sierra Leone specifically addresses cybercrime?\nThe Cyber Security and Crime Act, 2021, which covers hacking, identity theft, online fraud, child protection, privacy, and certain forms of cyber-bullying.",
+        "keywords": [
+            "sierra",
+            "leone",
+            "specifically",
+            "addresses",
+            "cybercrime",
+            "cyber",
+            "security",
+            "crime",
+            "2021",
+            "which"
+        ]
+    },
+    {
+        "id": "89",
+        "topic": "What real example of cyber-bullying in Sierra Leone was mentioned?",
+        "content": "What real example of cyber-bullying in Sierra Leone was mentioned?\nThe case of Maseray Sesay, a university student who was added to a WhatsApp group where defamatory statements were made accusing her of having Tuberculosis.",
+        "keywords": [
+            "real",
+            "example",
+            "cyberbullying",
+            "sierra",
+            "leone",
+            "mentioned",
+            "case",
+            "maseray",
+            "sesay",
+            "university"
+        ]
+    },
+    {
+        "id": "90",
+        "topic": "Why is it difficult to measure cyber-bullying cases in Sierra Leone?",
+        "content": "Why is it difficult to measure cyber-bullying cases in Sierra Leone?\nBecause accurate national statistics are lacking, and the CID Cyber Crime Unit has not published detailed data.",
+        "keywords": [
+            "difficult",
+            "measure",
+            "cyberbullying",
+            "cases",
+            "sierra",
+            "leone",
+            "because",
+            "accurate",
+            "national",
+            "statistics"
+        ]
+    },
+    {
+        "id": "91",
+        "topic": "Which demographic is most affected by cyber-bullying in Sierra Leone?",
+        "content": "Which demographic is most affected by cyber-bullying in Sierra Leone?\nWomen and girls.\nResearch by SLAWIJ found that 64% of women reported experiencing online threats, harassment, or violence.",
+        "keywords": [
+            "which",
+            "demographic",
+            "most",
+            "affected",
+            "cyberbullying",
+            "sierra",
+            "leone",
+            "women",
+            "girls",
+            "research"
+        ]
+    },
+    {
+        "id": "92",
+        "topic": "What modern trends of cyber-bullying are increasing in Sierra Leone?",
+        "content": "What modern trends of cyber-bullying are increasing in Sierra Leone?\nRelease of sex tapes\nNon-consensual sharing of private images\nBlackmail\nShaming\nBullying based on appearance, gender, religion, or sexuality\nTrolling on social media",
+        "keywords": [
+            "modern",
+            "trends",
+            "cyberbullying",
+            "increasing",
+            "sierra",
+            "leone",
+            "release",
+            "tapes",
+            "nonconsensual",
+            "sharing"
+        ]
+    },
+    {
+        "id": "93",
+        "topic": "What major legal limitation does the Cybercrime Act of 2021 have?",
+        "content": "What major legal limitation does the Cybercrime Act of 2021 have?\nThe Minister of Information has too much power to determine penalties for some offenses instead of the Judiciary, creating room for abuse.",
+        "keywords": [
+            "major",
+            "legal",
+            "limitation",
+            "cybercrime",
+            "2021",
+            "have",
+            "minister",
+            "information",
+            "much",
+            "power"
+        ]
+    },
+    {
+        "id": "94",
+        "topic": "How does the Cybercrime Act affect Sierra Leoneans living abroad (Diaspora)?",
+        "content": "How does the Cybercrime Act affect Sierra Leoneans living abroad (Diaspora)?\nSections 12 and 14 empower the government to request foreign assistance to investigate or prosecute offenses, meaning diaspora activities can be monitored or investigated.",
+        "keywords": [
+            "cybercrime",
+            "affect",
+            "sierra",
+            "leoneans",
+            "living",
+            "abroad",
+            "diaspora",
+            "sections",
+            "empower",
+            "government"
+        ]
+    },
+    {
+        "id": "95",
+        "topic": "Why is cyber-bullying not fully addressed by the Cybercrime Act?",
+        "content": "Why is cyber-bullying not fully addressed by the Cybercrime Act?\nBecause the law is broad, lacks specific penalties for cyber-bullying, and contains gaps that limit enforcement and clarity.",
+        "keywords": [
+            "cyberbullying",
+            "fully",
+            "addressed",
+            "cybercrime",
+            "because",
+            "broad",
+            "lacks",
+            "specific",
+            "penalties",
+            "contains"
+        ]
+    },
+    {
+        "id": "96",
+        "topic": "What are key challenges in enforcing cyber-bullying laws in Sierra Leone?",
+        "content": "What are key challenges in enforcing cyber-bullying laws in Sierra Leone?\nLack of public awareness\nTechnical limitations in police investigations\nWeak reporting systems\nNo dedicated cyber-bullying legislation\nLimited digital literacy\nInadequate training of law enforcement officers",
+        "keywords": [
+            "challenges",
+            "enforcing",
+            "cyberbullying",
+            "laws",
+            "sierra",
+            "leone",
+            "lack",
+            "public",
+            "awareness",
+            "technical"
+        ]
+    },
+    {
+        "id": "97",
+        "topic": "What recommendations does the article provide to reduce cyber-bullying?",
+        "content": "What recommendations does the article provide to reduce cyber-bullying?\nDigital literacy programs in schools\nParental engagement in children’s online safety\nStricter social media policies and cooperation with authorities\nA dedicated cyber-bullying law separate from the cybercrime act\nTraining for law enforcement to handle cyber-bullying cases\nNational public awareness campaigns\nCreating support systems for victims",
+        "keywords": [
+            "recommendations",
+            "article",
+            "provide",
+            "reduce",
+            "cyberbullying",
+            "digital",
+            "literacy",
+            "programs",
+            "schools",
+            "parental"
+        ]
+    },
+    {
+        "id": "98",
+        "topic": "Why is a specific cyber-bullying law needed in Sierra Leone?",
+        "content": "Why is a specific cyber-bullying law needed in Sierra Leone?\nBecause the current law is too broad and does not clearly define cyber-bullying offenses or penalties, leaving victims without strong legal protection.",
+        "keywords": [
+            "specific",
+            "cyberbullying",
+            "needed",
+            "sierra",
+            "leone",
+            "because",
+            "current",
+            "broad",
+            "clearly",
+            "define"
+        ]
+    },
+    {
+        "id": "99",
+        "topic": "How does cyber-bullying affect national wellbeing?",
+        "content": "How does cyber-bullying affect national wellbeing?\nIt increases mental health issues, damages social harmony, encourages crime, discourages women and youth participation online, and creates fear in digital spaces.",
+        "keywords": [
+            "cyberbullying",
+            "affect",
+            "national",
+            "wellbeing",
+            "increases",
+            "mental",
+            "health",
+            "issues",
+            "damages",
+            "social"
+        ]
+    },
+    {
+        "id": "100",
+        "topic": "What role should communities play in fighting cyber-bullying?",
+        "content": "What role should communities play in fighting cyber-bullying?\nCommunities must promote responsible online behavior, report cases early, condemn harassment, and provide emotional support to victims.",
+        "keywords": [
+            "role",
+            "should",
+            "communities",
+            "play",
+            "fighting",
+            "cyberbullying",
+            "must",
+            "promote",
+            "responsible",
+            "online"
+        ]
+    },
+    {
+        "id": "101",
+        "topic": "What is the article’s final conclusion?",
+        "content": "What is the article’s final conclusion?\nSierra Leone must adopt a comprehensive, multi-level strategy—including education, legal reforms, technology, and awareness—to effectively protect citizens and create a safer digital environment.",
+        "keywords": [
+            "articles",
+            "final",
+            "conclusion",
+            "sierra",
+            "leone",
+            "must",
+            "adopt",
+            "comprehensive",
+            "multilevel",
+            "strategyincluding"
+        ]
+    }
+]

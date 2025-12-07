@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  # MySQL database
+  mysql:
+    image: mysql:8.0
+    container_name: tecw_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: tecw_root_pass
+      MYSQL_DATABASE: tecw_db
+      MYSQL_USER: tecw_user
+      MYSQL_PASSWORD: tecw_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./scripts/mysql_schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    networks:
+      - tecw_network
+
+  # PHPMyAdmin for database management
+  phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: tecw_phpmyadmin
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      PMA_USER: tecw_user
+      PMA_PASSWORD: tecw_password
+      UPLOAD_LIMIT: 50M
+    ports:
+      - "8080:80"
+    depends_on:
+      - mysql
+    networks:
+      - tecw_network
+
+  # Node.js backend API
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: tecw_backend
+    environment:
+      PORT: 3001
+      MYSQL_HOST: mysql
+      MYSQL_PORT: 3306
+      MYSQL_USER: tecw_user
+      MYSQL_PASSWORD: tecw_password
+      MYSQL_DATABASE: tecw_db
+      WHATSAPP_APP_SECRET: ${WHATSAPP_APP_SECRET:-test-secret}
+      WHATSAPP_ACCESS_TOKEN: ${WHATSAPP_ACCESS_TOKEN:-test-token}
+    ports:
+      - "3001:3001"
+    depends_on:
+      - mysql
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - tecw_network
+
+volumes:
+  mysql_data:
+
+networks:
+  tecw_network:
+    driver: bridge
